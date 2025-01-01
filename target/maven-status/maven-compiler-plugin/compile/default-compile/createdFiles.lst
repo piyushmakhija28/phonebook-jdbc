@@ -1,0 +1,11 @@
+com\techdeveloper\phonebook\dto\PhonebookDto.class
+com\techdeveloper\phonebook\annotations\groups\NotEmptyGroup.class
+com\techdeveloper\phonebook\annotations\sequence\ValidationSequence.class
+com\techdeveloper\phonebook\form\PhonebookForm.class
+com\techdeveloper\phonebook\services\impl\PhonebookServicesImpl.class
+com\techdeveloper\phonebook\annotations\groups\NotBlankGroup.class
+com\techdeveloper\phonebook\controller\PhonebookRestController.class
+com\techdeveloper\phonebook\annotations\groups\NotNullGroup.class
+com\techdeveloper\phonebook\PhonebookApplication.class
+com\techdeveloper\phonebook\dto\ResponseDto.class
+com\techdeveloper\phonebook\services\PhonebookServices.class
